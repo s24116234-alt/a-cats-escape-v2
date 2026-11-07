@@ -16,8 +16,8 @@ export interface SpriteRect {
 // Bottom-Left (0, 0.5, 0.5, 0.5): Customer (顧客)
 // Bottom-Right (0.5, 0.5, 0.5, 0.5): Interactive items & Heisei props
 
-export const SPRITE_SHEET_URL = './assets/aistudio/Gemini_Generated_Image_bg1hsobg1hsobg1h_8d4ce345.png';
-export const SCENE_MOCKUP_URL = './assets/aistudio/Gemini_Generated_Image_ch2gt8ch2gt8ch2g_44b3ebc3.png';
+export const SPRITE_SHEET_URL = './assets/Gemini_Generated_Image_bg1hsobg1hsobg1h_8d4ce345.png';
+export const SCENE_MOCKUP_URL = './assets/Gemini_Generated_Image_ch2gt8ch2gt8ch2g_44b3ebc3.png';
 
 export const SPRITE_REGIONS = {
   // Cat
