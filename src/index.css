@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #020617;
+    color: #f8fafc;
+    overflow: hidden;
+    user-select: none;
+    -webkit-user-select: none;
+    font-family: 'DotGothic16', sans-serif;
+  }
+
+  canvas {
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+  }
+}

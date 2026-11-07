@@ -1,0 +1,6 @@
+{
+  "name": "平成喵星人大逃亡 ～別碰我！～",
+  "description": "平成復古風 2D 潛行與障礙物回避動作脫逃遊戲。扮演討厭被觸摸的橘貓阿橘，利用貨架機關絆倒店員，避開洗澡與摸摸，逃出寵物店！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
